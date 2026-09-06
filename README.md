@@ -56,14 +56,6 @@ Older versions may be kept when useful. An older APK can be useful if:
 
 When possible, use the newest version compatible with your device.
 
-## Security
-
-Only install APK files from sources you trust.
-
-APK files can contain executable code and may request access to sensitive device features. Be especially careful with modified, patched, or unofficial APKs.
-
-When possible, verify the source of an APK before installing it.
-
 ## Disclaimer
 
 This repository is intended for distributing and archiving APK builds that can legally be shared.
