@@ -45,20 +45,6 @@ Common Android architectures include:
 
 If an APK does not install, it may be incompatible with your device, Android version, or CPU architecture.
 
-## Repository structure
-
-APK files may be organized by application and version:
-
-    apk-builds/
-    ├── README.md
-    ├── AppName/
-    │   ├── AppName-v1.0.apk
-    │   └── AppName-v1.1.apk
-    └── AnotherApp/
-        └── AnotherApp-v2.0.apk
-
-The exact structure may change as the repository grows.
-
 ## Versions
 
 Older versions may be kept when useful. An older APK can be useful if:
